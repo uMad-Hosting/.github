@@ -1,6 +1,6 @@
-![alt text](https://i.imgur.com/OZQhhDp.png)
-
 <h1>Willkommen bei uMad Hosting</h1>
+
+![alt text](https://i.imgur.com/vjalrML.png)
 
 <h2>Über Uns</h2>
 <p>uMad Hosting bietet hochqualitatives, zuverlässiges und erschwingliches Gameserver Hosting für eine Vielzahl von Multiplayer-Spielen. Unser Ziel ist es, Gamern und Spieleentwicklern die beste Hosting-Erfahrung mit ausgezeichneter Performance, geringer Latenz und hervorragendem Kundenservice zu bieten.</p>
