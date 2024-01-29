@@ -1,3 +1,5 @@
+![alt text]([https://i.imgur.com/OZQhhDp.png])
+
 <h1>Willkommen bei uMad Hosting</h1>
 
 <h2>Über Uns</h2>
