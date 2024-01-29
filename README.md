@@ -5,7 +5,7 @@
 
 <h2>Unsere Dienstleistungen</h2>
 <ul>
-  <li><strong>Gameserver Hosting</strong>: Wir unterstützen eine breite Palette von Spielen, einschließlich [Liste beliebter Spiele, die Sie hosten].</li>
+  <li><strong>Gameserver Hosting</strong>: Wir unterstützen eine breite Palette von Spielen, einschließlich Minecraft, Counter Strike 2, Ark, Rust und vieles mehr.</li>
   <li><strong>Dedizierte Server</strong>: Für diejenigen, die mehr Kontrolle und Leistung benötigen, bieten wir dedizierte Serverlösungen an.</li>
   <li><strong>Server Management Tools</strong>: Benutzerfreundliche Tools zur Verwaltung und Überwachung Ihres Servers.</li>
   <li><strong>24/7 Support</strong>: Unser engagiertes Support-Team steht Ihnen jederzeit zur Verfügung, um Ihre Fragen zu beantworten und bei Problemen zu helfen.</li>
